@@ -1,12 +1,12 @@
-#Laporan Praktikum Objek
+# Laporan Praktikum Objek
 
-##Jawaban Soal
+## Jawaban Soal
 
-###Jawaban 2.2.1
+### Jawaban 2.2.1
 
 3. Tidak bisa, karena tidak mempunyai kelas main
 
-###Jawaban 2.2.3
+### Jawaban 2.2.3
 
 1.	karakteristik class/objek  yaitu Attribute (state) dan Behavior (method).
 2.	Kata kuncinya yaitu “class” lalu diikuti nama classnya.
@@ -20,12 +20,12 @@
 7.	Karena harus jelas berapa harga total yang harus dibayar.
 8.	Karena nanti nilainya akan diisikan di fungsi main.
 
-###Jawaban 2.3.3
+### Jawaban 2.3.3
 
 1.	Proses instansiasi dilakukan pada baris 15 sampai 19. nama objek yang dihasilkan adalah nama = corsair 2 GB, jenis = DDR, Stok, dan harga satuan.
 2.	Cara mengakses atribut dan methodnya yaitu dengan memanggil fungsi yang telah ada dan mengisi nilai parameternya misal yaitu bl.tambahStok(1).
 
-###Jawaban 2.4.3
+### Jawaban 2.4.3
 
 1.	Pada baris ke 25
 2.	Maksud yang dilakukan pada program tersebut atau konstruktor berparameter yaitu untuk menginisialisasi dan memberikan nilai secara langsung atau melalui parameter kepada sebuah objek yaitu pada program tersebut mengirimkan Logitech ke parameter nm yang ada di fungsi Barang, lalu mengirimkan Wireless mouse ke jn, nilai 25 ke st, dan 150000 ke parameter hs.
@@ -34,7 +34,7 @@
     <img src = "./SS/No3.jpg">
 
 
-###2.5 Latihan Praktikum
+### 2.5 Latihan Praktikum
 
 1. Output lingkaran
 
