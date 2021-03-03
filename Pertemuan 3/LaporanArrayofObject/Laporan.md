@@ -52,11 +52,13 @@
 4.	Output
 
     <img src = "./SS/o4.jpg"> 
+    
     <img src = "./SS/oo4.jpg">
 
 5. Output
 
     <img src = "./SS/o4.jpg">
+
     <img src = "./SS/o5.jpg">
  
  
