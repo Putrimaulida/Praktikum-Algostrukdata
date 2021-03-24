@@ -6,7 +6,9 @@
 1.	Untuk proses bubble sort terdapat di method void bubbleSort()
 2.	Untuk proses selection sort terdapat di method void selectionSort() 
 3.	Proses swap merupakan pertukaran indeks objek untuk mengurutkan inndeks objek tersebut, berikut potongan program untuk proses swap
+
     <img src = "./SS/1.jpg">
+    
 4.	Untuk melakukan proses pernukaran nilai selama kondisinya terpenuhi
 5.  a.	Di perulangan i untuk menghitung index, apakah index i lebih kecil daripada index j dan di perulangan j untuk menghitung index, bila mana index j lebih kecil dari pada index i.
 
