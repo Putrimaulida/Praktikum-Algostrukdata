@@ -22,9 +22,11 @@
 
 #### Jawaban 5.4.3
 Kode Program
-    <img src = "./SS/2.jpg">
+
+<img src = "./SS/2.jpg">
 
 Output
     
 <img src = "./SS/3.jpg">
+
 <img src = "./SS/4.jpg">
