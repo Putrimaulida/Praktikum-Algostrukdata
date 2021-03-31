@@ -26,19 +26,21 @@
 
     output
     <img src = "./SS/3.jpg"> 
-    <img src = "./SS/4.jpg"> 
+
+    <img src = "./SS/4.jpg">
+
     <img src = "./SS/5.jpg"> 
 
 5. Class
     
     <img src = "./SS/6.jpg"> 
 
-  
-
     <img src = "./SS/7.jpg"> 
+
     <img src = "./SS/8.jpg"> 
 
-    <img src = "./SS/10.jpg"> 
+    <img src = "./SS/10.jpg">
+     
     <img src = "./SS/9.jpg"> 
 
  
