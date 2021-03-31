@@ -25,6 +25,7 @@
     <img src = "./SS/12.jpg">    
 
     output
+    
     <img src = "./SS/3.jpg"> 
 
     <img src = "./SS/4.jpg">
@@ -40,7 +41,7 @@
     <img src = "./SS/8.jpg"> 
 
     <img src = "./SS/10.jpg">
-     
+
     <img src = "./SS/9.jpg"> 
 
  
