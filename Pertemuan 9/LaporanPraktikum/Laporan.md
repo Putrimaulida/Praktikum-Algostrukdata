@@ -29,11 +29,14 @@
       <img src = "./SS/5.jpg">
 
       Output
-
+      
+      1
       <img src = "./SS/6.jpg">
 
+      2
       <img src = "./SS/7.jpg">
 
+      3
       <img src = "./SS/8.jpg">
 
 
@@ -57,15 +60,15 @@
 
    <img src = "./SS/11.jpg">
 
-   <img src = "./SS/12.jpg">
+      <img src = "./SS/12.jpg">
 
    <img src = "./SS/13.jpg">
 
-   <img src = "./SS/14.jpg">
+      <img src = "./SS/14.jpg">
 
    <img src = "./SS/15.jpg">
 
-   <img src = "./SS/16.jpg">
+      <img src = "./SS/16.jpg">
 
    <img src = "./SS/17.jpg">
  
