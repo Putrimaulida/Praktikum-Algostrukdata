@@ -58,17 +58,18 @@
 
 2. Output
 
+
    <img src = "./SS/11.jpg">
 
-      <img src = "./SS/12.jpg">
+   <img src = "./SS/12.jpg">
 
    <img src = "./SS/13.jpg">
 
-      <img src = "./SS/14.jpg">
+   <img src = "./SS/14.jpg">
 
    <img src = "./SS/15.jpg">
 
-      <img src = "./SS/16.jpg">
+   <img src = "./SS/16.jpg">
 
    <img src = "./SS/17.jpg">
  
