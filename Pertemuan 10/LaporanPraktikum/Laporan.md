@@ -26,9 +26,7 @@
 
     <img src = "./SS/3.jpg">
 
-4. Kode program
-
-    Class Penumpang
+4. Kode program Class Penumpang
     <img src = "./SS/4.jpg">
  
     Main class (QueueMain)
