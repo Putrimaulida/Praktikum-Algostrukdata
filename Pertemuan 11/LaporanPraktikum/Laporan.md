@@ -21,6 +21,7 @@ pada index terakhir
 ### Soal 1
 
 Kode program
+
 <img src = "./SS/1.jpg">
 
 <img src = "./SS/2.jpg">
