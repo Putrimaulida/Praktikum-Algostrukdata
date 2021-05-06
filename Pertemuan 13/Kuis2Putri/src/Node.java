@@ -3,19 +3,22 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Soal2;
 
 /**
  *
  * @author asus
  */
-public class Node2 {
+public class Node {
+    String nim, nama;
+    double ipk;
+    Node prev, next;
     String data;
-    Node2 prev, next;
-    
-    Node2(Node2 prev, String data, Node2 next){
+
+    Node(Node prev, String nim, String nama, double ipk, Node next) {
         this.prev = prev;
-        this.data = data;
+        this.nim = nim;
+        this.nama = nama;
+        this.ipk = ipk;
         this.next = next;
-    }
+    }   
 }
