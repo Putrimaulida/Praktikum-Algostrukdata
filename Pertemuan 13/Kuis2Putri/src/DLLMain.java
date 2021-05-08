@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author asus
+ * @author Asus
  */
 public class DLLMain {
     public static void main(String[] args)throws Exception {
@@ -125,3 +125,4 @@ public class DLLMain {
         System.out.println("=====================================");
     }
 }
+

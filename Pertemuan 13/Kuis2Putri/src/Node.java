@@ -6,7 +6,7 @@
 
 /**
  *
- * @author asus
+ * @author Asus
  */
 public class Node {
     String nim, nama;
@@ -22,3 +22,4 @@ public class Node {
         this.next = next;
     }   
 }
+
