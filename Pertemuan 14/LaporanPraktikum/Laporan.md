@@ -20,4 +20,14 @@ b. nilai root akan bernilai null
 5.	Untuk membatasi print out yang dimulai dari index 0 sampai 6 
  
  
+## Output Hasil Praktikum
+
+### Praktikum 1
+
+<img src = "./SS/3.jpg">
+
+### Praktikum 2
+
+<img src = "./SS/4.jpg">
+
 
